@@ -1,0 +1,9 @@
+title :Movie 1
+ Genre:Genero 1
+ Year:2018
+ Creater:Creator 1
+ Duration:121title :Movie 2
+ Genre:Genero 2
+ Year:2019
+ Creater:Creator 2
+ Duration:122
